@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Petrochenk0
+- 👀 I’m interested in different language programming
+- 🌱 I am currently studying at school
