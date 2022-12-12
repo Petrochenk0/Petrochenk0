@@ -3,4 +3,4 @@
 <h3 align="center">Frontend student, writer from Russia 🇷🇺</h3>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Petrochenk0&show_icons=true&theme=great-gatsby" alt="Petrochenk0" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrochenk0)](https://github.com/Petrochenk0)
