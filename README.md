@@ -4,4 +4,4 @@
 
 
 
-<div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Petrochenk0&theme=dark&hide_border=true&locale=ru&mode=weekly)](https://git.io/streak-stats)</div>
+<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Petrochenk0&theme=dark&hide_border=true&locale=ru&mode=weekly)](https://git.io/streak-stats)</p>
