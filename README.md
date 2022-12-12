@@ -4,4 +4,4 @@
 <h3 align="center">Frontend student, writer from Russia 🇷🇺</h3>
 
 
-https://github-profile-trophy.vercel.app/username=Petrochenk0)](https://github.com/Petrochenk0/github-profile-trophy
+https://github-profile-trophy.vercel.app/username=Petrochenk0.https://github.com/Petrochenk0/github-profile-trophy
