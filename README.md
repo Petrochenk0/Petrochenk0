@@ -3,5 +3,4 @@
 <h3 align="center">Frontend student, writer from Russia 🇷🇺</h3>
 
 
-
-<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Petrochenk0&theme=dark&hide_border=true&locale=ru&mode=weekly)](https://git.io/streak-stats)</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=great-gatsby" alt="Petrochenk0" />
