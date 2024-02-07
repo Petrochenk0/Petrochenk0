@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Petrochenko Nikita😎👋
 
-<h3 align="center">Frontend Software Engineer, writer from Russia 🇷🇺</h3>
+<h3 align="center">Frontend Software Engineer, writer from Russia</h3>
 
 Добро пожаловать в мой профиль GitHub! Я Petrochenko, разработчик программного обеспечения с уклоном во фронтенд разработку. Ниже вы найдете описание моего стека технологий и проектов.
 
