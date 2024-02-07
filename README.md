@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Petrochenko Nikita😎
+<h1 align="center">Hello there, I'm Petrochenko Nikita😎👋
 
 <h3 align="center">Frontend Software Engineer, writer from Russia 🇷🇺</h3>
 
