@@ -1,8 +1,6 @@
-<h1 align="center">Hello there, I'm Petrochenko Nikita😎👋</h1>
+<h1>**Lead Frontend Developer с 3+ годами опыта**</h1>
 
 Добро пожаловать в мой профиль GitHub!👋 <br>
-
-Я Petrochenko, **Lead Frontend Developer с 3+ годами опыта** <br>
 
 Ниже вы найдете описание моего стека технологий и проектов. 🙂
 
