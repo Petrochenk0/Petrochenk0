@@ -1,4 +1,4 @@
-<h1>Lead Frontend Developer с 3+ годами опыта</h1>
+<h1>Frontend Developer</h1>
 
 Добро пожаловать в мой профиль GitHub!👋 <br>
 
