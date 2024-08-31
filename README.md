@@ -6,9 +6,9 @@
 
 ## Стэк Технологий 🔥
 
-- TypeScript, JavaScript
-- NEXT.js, React, Redux-toolkit, Zustand
-- SCSS, SASS, Tailwind CSS
+- TypeScript / JavaScript
+- NEXT.js / React / Redux-toolkit / Zustand
+- SCSS / SASS / Tailwind CSS
 
 ## Проекты 🚀
 
