@@ -6,9 +6,9 @@
 
 ## Стэк Технологий 🔥
 
-- **Языки программирования:** TypeScript, JavaScript
-- **Фреймворки и библиотеки:** NEXT.js, React, Redux-toolkit, Zustand
-- **Препроцессоры и CSS фреймворки:** SCSS, SASS, Tailwind CSS
+- TypeScript, JavaScript
+- NEXT.js, React, Redux-toolkit, Zustand
+- SCSS, SASS, Tailwind CSS
 
 ## Проекты 🚀
 
