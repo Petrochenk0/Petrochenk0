@@ -1,7 +1,6 @@
 <h1>Frontend Developer</h1>
 
 Добро пожаловать в мой профиль GitHub!👋 <br>
-
 ## Стэк Технологий 🔥
 
 - TypeScript / JavaScript
