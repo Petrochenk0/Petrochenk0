@@ -4,7 +4,7 @@
 ## Стэк Технологий 🔥
 
 - TypeScript / JavaScript
-- NEXT.js / React 
+- React / NEXT.js
 - SCSS / SASS / Tailwind CSS
 
 ## Проекты 🚀
