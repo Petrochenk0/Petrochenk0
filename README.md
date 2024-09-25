@@ -7,3 +7,4 @@ Welcome to my profile GitHub!👋 <br>
 - TypeScript / JavaScript
 - React / NEXT.js
 - SCSS / SASS / Tailwind CSS
+- Nest / PostgreSQL
