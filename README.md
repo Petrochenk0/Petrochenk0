@@ -1,8 +1,8 @@
 <h1>Hello there 👋 </h1> 
 
-Добро пожаловать в мой профиль GitHub!👋 <br>
+Welcome to my profile GitHub!👋 <br>
 
-## Стэк Технологий 🔥
+## Stack Technologies 🔥
 
 - TypeScript / JavaScript
 - React / NEXT.js
