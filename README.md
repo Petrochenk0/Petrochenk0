@@ -1,4 +1,4 @@
-<h1>Frontend Developer</h1>
+<h1>Hello there 👋 Frontend Developer</h1>
 
 Добро пожаловать в мой профиль GitHub!👋 <br>
 ## Стэк Технологий 🔥
