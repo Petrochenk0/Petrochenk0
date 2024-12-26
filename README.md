@@ -1,4 +1,6 @@
-<h1>Hello there 👋 </h1>
+<h1>Hello there Im Nikita👋 </h1>
+
+A frontend engineer who love open source and new technology, be good at React、TypeScript and Nest. is a man who insists on writing code.
 
 - TypeScript / JavaScript / React / Next.js
 - Nest / PostgreSQL / GraphQL
