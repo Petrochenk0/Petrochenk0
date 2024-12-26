@@ -1,7 +1,7 @@
 <h1>Hello there 👋 </h1>
 
-- TypeScript, JavaScript, React, Next.js, Tailwind CSS
-- NestJS, PostgreSQL, GraphQL, CI/CD
+- TypeScript / JavaScript / React / Next.js
+- Nest / PostgreSQL / GraphQL / CI/CD
 
 ## Как я работаю ⚡
 
