@@ -4,7 +4,7 @@ A frontend engineer who love open source and new technology, be good at React, T
 
 💼&nbsp; <code>Javascript</code> / <code>Typescript</code> 
 / <code>React</code> / <code>Next</code> / <code>Redux/RTK</code> 
-/  <code>Nest</code> 
+/  <code>Node/Nest</code> 
 
 
 Hello world ❤
