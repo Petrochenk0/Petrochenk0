@@ -11,5 +11,6 @@ A frontend engineer who love open source and new technology, be good at React, T
 - REST API & GraphQL & WebSocket
 - Optimization
 - Git
+- Node & Nest
 
 Hello world ❤
