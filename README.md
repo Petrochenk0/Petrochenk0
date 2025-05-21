@@ -4,7 +4,7 @@
 - TypeScript & JavaScript
 - React & Next
 - HTML/CSS
-- Redux & Redux-toolkit & RTK
+- Redux & Redux-toolkit & RTK/React Query
 - Testing (Jest, E2E)
 - REST API & GraphQL & WebSocket
 - Optimization
