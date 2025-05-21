@@ -5,7 +5,7 @@
 - React & Next
 - HTML/CSS
 - Redux & Redux-toolkit & RTK/React Query
-- Testing (Jest, E2E)
+- Testing (Jest, E2E, Integration)
 - REST API & GraphQL & WebSocket
 - Optimization
 - Git
