@@ -1,14 +1,17 @@
-<h1>Hello there I'm Nikita👋 </h1>
+Frontend developer with over 5+ years of expertise in React and Typescript.
+Developed scalable applications of varying complexity, architecture (Monolithic, micro-frontends and FSD)
+and content generation (SSR, SSG, SPA, as well as PWA). Participated in all stages of product creation:
+from collecting and describing requirements, choosing architecture and design, to final implementation and
+optimisation coverage.
 
-💼&nbsp; 
-- TypeScript & JavaScript
-- React & Next
-- HTML/CSS
-- Redux & Redux-toolkit & RTK/React Query
-- Testing (Jest, E2E, Integration)
-- REST API & GraphQL & WebSocket
-- Optimization
-- Git
-- Node & Nest
-
-Hello world ❤
+JavaScript, TypeScript;
+• React / Next / Remix;
+• Redux / Zustand / Recoil / Effector;
+• React Query / Apollo GraphQL / RTK Query / websocket;
+• Webpack / Vite / Rollup;
+• Jest / React Testing Library / Playwright / Cypress;
+• Material UI / Ant Design / shadcn;
+• react-hook-form / formik / yup;
+• styled-components / scss / css modules / tailwind.
+• Agile / Scrum / Kanban / Waterfall / Jira / Git
+• Clean architecture / DDD / TDD / SOLID / DRY / KISS
