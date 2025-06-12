@@ -11,7 +11,7 @@ optimisation coverage.
 • JavaScript / TypeScript  
 • React / Next / Remix  
 • Redux / Zustand / Recoil / Effector  
-• React Query / Apollo GraphQL / RTK Query / websocket  
+• React Query / Apollo GraphQL / RTK Query / WebSocket  
 • Webpack / Vite / Rollup  
 • Jest / React Testing Library / Playwright / Cypress  
 • Material UI / Ant Design / shadcn  
