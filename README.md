@@ -8,7 +8,7 @@ optimisation coverage.
 
 ---
 
-• JavaScript **/** TypeScript  
+• JavaScript / TypeScript  
 • React / Next / Remix  
 • Redux / Zustand / Recoil / Effector  
 • React Query / Apollo GraphQL / RTK Query / WebSocket  
