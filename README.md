@@ -1,7 +1,7 @@
 ### Frontend Developer
 
 Frontend developer with over 5+ years of expertise in React/Next and TypeScript.  
-Developed scalable applications of varying complexity, architecture (Monolithic, micro-frontends and FSD)  
+Developed scalable applications of varying complexity, architecture (Monolithic, micro-frontends and FSD, Perfect Arch)  
 and content generation (SSR, SSG, SPA, as well as PWA). Participated in all stages of product creation:  
 from collecting and describing requirements, choosing architecture and design, to final implementation and  
 optimisation coverage.
